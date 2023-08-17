@@ -1,1 +1,1 @@
-simultaion file will only run on prteus v8.13
+simultaion file will only run on proteus v8.13
